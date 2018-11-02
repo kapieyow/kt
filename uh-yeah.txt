@@ -5,3 +5,5 @@ really?
 even with PR?
 
 Adding awesomeness for feature A
+
+This is feature B
